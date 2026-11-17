@@ -7,6 +7,7 @@ alert family, report the scammer, and learn the tricks.
 Team project · IIIT Bhagalpur.
 
 **Live:** https://cyberrakshak-iiitbh.vercel.app
+**Android app:** [download CyberRakshak.apk](https://github.com/me-adityaraj8/cyberrakshak/releases/latest/download/CyberRakshak.apk)
 
 ## What it does
 
